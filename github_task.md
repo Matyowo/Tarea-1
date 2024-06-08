@@ -1,1 +1,1 @@
-Este contenido
+Este es un archivo de asignación
